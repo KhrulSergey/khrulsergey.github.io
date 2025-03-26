@@ -1,0 +1,1051 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Cryptocurrency multichain memepad launchpad for Telegram mini-app",
+    "domain": "Cryptocurrency, Web3, Telegram Mini-App",
+    "responsibilities": [
+      "Architect",
+      "TechLead",
+      "Backend Developer",
+      "CI/CD setup"
+    ],
+    "technologies": [
+      "Java 21",
+      "Solidity",
+      "RxJava",
+      "Spring WebFlux",
+      "Spring",
+      "TypeScript",
+      "RxJ",
+      "Kubernetes",
+      "PostgreSQL",
+      "ClickHouse",
+      "Redis"
+    ],
+    "status": "Functional MVP with incomplete feature",
+    "supported_chains": [
+      "Polygon",
+      "Linea"
+    ],
+    "partnerships": [
+      "Metamask",
+      "Consensys",
+      "LDA Capital"
+    ],
+    "key_contributions": [
+      "Automated mechanism to track meme-token events across various EVM-based chains",
+      "Support for custom ERC-4337 AO services and Metamask Gator service stack",
+      "Algorithm to create and securely store Abstraction Account access mechanisms within a Telegram application"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cryptocurrency omnichain protocol for swaps",
+    "domain": "Cryptocurrency, Blockchain, DeFi",
+    "responsibilities": [
+      "Backend Developer",
+      "CI/CD setup"
+    ],
+    "technologies": [
+      "GoLang",
+      "Cosmos SDK",
+      "Solidity",
+      "GRPC",
+      "REST API",
+      "ProtoBuf",
+      "TypeScript"
+    ],
+    "status": "Full functional v1. Frozen",
+    "supported_chains": [
+      "Polygon",
+      "Kava",
+      "Berachain",
+      "Arbitrum",
+      "Algorand",
+      "BOB",
+      "Cardano Milkomeda"
+    ],
+    "partnerships": null,
+    "key_contributions": [
+      "Enhanced protocol to support gas fee payments in gas token in the destination network during cross-chain swaps",
+      "Integrated support for additional chains—Polygon, Berachain, and Arbitrum"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Web3 billing platform and payment gateway for a satellite internet provider",
+    "domain": "Web3, Billing, Payment Gateway, Satellite Internet",
+    "responsibilities": [
+      "TechLead",
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 17",
+      "Solidity",
+      "Arbitrum Orbit L3",
+      "AWS services: Cognito, SQS, EKS, AuroraDB, CloudWatch, Lambda",
+      "Spring",
+      "Reactor",
+      "TypeScript"
+    ],
+    "status": "Functional MVP",
+    "supported_chains": [
+      "Own Orbit L3",
+      "Arbitrum"
+    ],
+    "partnerships": [
+      "Rivada",
+      "EY Consulting"
+    ],
+    "key_contributions": [
+      "Self-developed",
+      "Established and deployed a fully functional L3 orbit node",
+      "Maximum native support for AWS services was integrated"
+    ],
+    "microservices_count": 5
+  },
+  {
+    "id": 4,
+    "name": "Trading arbitrage bot for CEX-DEX transactions",
+    "domain": "Trading, Arbitrage, Cryptocurrency, CEX, DEX",
+    "responsibilities": [
+      "Architect",
+      "TechLead",
+      "Backend Developer",
+      "CI/CD setup"
+    ],
+    "technologies": [
+      "Java 17",
+      "RxJava",
+      "Java Reactor",
+      "Spring",
+      "Event Sourcing",
+      "Telegram bot notifications",
+      "Kafka",
+      "Web3J",
+      "WebSocket",
+      "PostgreSQL",
+      "InfluxDB"
+    ],
+    "status": "Full functional v1",
+    "supported_chains": [
+      "Polygon",
+      "Cardano Milkomeda"
+    ],
+    "supported_cex": [
+      "Binance",
+      "MEXC"
+    ],
+    "supported_strategy": [
+      "AMM Liquidity Levels",
+      "Pump/dump",
+      "Manual trades",
+      "Cross quotes arbitrage",
+      "wallet balancing"
+    ],
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Assessed comprehensive backtesting procedures",
+      "Developed and researched trading algorithms"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Statistical platform for a multichain DEX - info.blueshift.fi",
+    "domain": "Cryptocurrency, DEX, Statistics, Analytics",
+    "responsibilities": [
+      "TechLead",
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 17",
+      "Spring",
+      "Reactor",
+      "GraphQL server",
+      "REST API",
+      "Kafka",
+      "PostgreSQL"
+    ],
+    "status": "Functional v1",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Developed a mechanism to automatically generate complex exchange statistical metrics across multiple EVM-based chains"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Casual and tap-style games for Telegram MiniApps",
+    "domain": "Gaming, Telegram Mini-Apps, Web3",
+    "responsibilities": [
+      "TechLead",
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 17",
+      "Spring",
+      "Reactor",
+      "Web3J",
+      "REST API",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "status": "Functional v1",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "A new platform version, featuring self-claiming rewards enabled was successfully launched one month early.",
+      "Developed a mechanism for listening to on-chain events and tracking transactions across multiple EVM-based chains",
+      "An AI training system was engineered to autonomously track bots"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Data-driven system for analyzing DAO metrics - daopulse.org",
+    "domain": "DAO, Analytics, Data Aggregation",
+    "responsibilities": [
+      "TechLead",
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Spring",
+      "REST AP",
+      "Swagger",
+      "GraphQL client",
+      "PostgreSQL"
+    ],
+    "status": "Functional v1",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Developed mechanism for acquisition of financial and analytical data from heterogeneous sources"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "CBDC bridge platform streamlining SWIFT transactions",
+    "domain": "CBDC, Blockchain, Finance, SWIFT",
+    "responsibilities": [
+      "Tech manager",
+      "Backend Developer"
+    ],
+    "technologies": [
+      "GoLang",
+      "ProtoBuf",
+      "GRPC",
+      "REST API",
+      "Stellar chain",
+      "AWS S3",
+      "Kafka",
+      "WebSocket",
+      "GraphQL client",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "status": "Functional v1. Frozen",
+    "supported_chains": [
+      "Stellar"
+    ],
+    "partnerships": [
+      "Hong Kong Monetary Authority",
+      "HSBC bank",
+      "ZA Bank",
+      "Boston Consulting Group"
+    ],
+    "key_contributions": [
+      "A microservice was engineered to ensure client compliance (KYC/KYB)",
+      "An architectural plan was engineered to modularize the payment platform"
+    ],
+    "microservices_count": 15
+  },
+  {
+    "id": 9,
+    "name": "3D Model Management Platform for Registration and Assessment of Patent Infringement",
+    "domain": "3D Modeling, Patent, Legal",
+    "responsibilities": [
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Python",
+      "REST API",
+      "JavaSCAD",
+      "ML analysing",
+      "3D models converters",
+      "Kafka",
+      "PostgreSQL"
+    ],
+    "status": "Functional v3",
+    "supported_chains": null,
+    "partnerships": [
+      "Government patent and trademark office"
+    ],
+    "key_contributions": [
+      "Developed mechanism to dynamically generate XML reports from 3D model metadata"
+    ],
+    "microservices_count": 10
+  },
+  {
+    "id": 10,
+    "name": "DEX valuation tool",
+    "domain": "DEX, Finance, Valuation",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Thymeleaf UI",
+      "REST API",
+      "GraphQL Client",
+      "Blockchain API",
+      "PostgreSQL"
+    ],
+    "status": "Functional MVP. Frozen",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Universal GraphQL client was engineered to collect DEX project and token metrics"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "SaaS platform digitizing concrete construction",
+    "domain": "SaaS, Construction, Blockchain",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 17",
+      "Spring",
+      "TypeScript",
+      "Angular",
+      "REST API",
+      "Reactor",
+      "Web3J",
+      "Swagger",
+      "PostgreSQL"
+    ],
+    "status": "Functional MVP",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Developed a mechanism for creating RWA tokens (delivery contracts) compliant with the EIP 1155 standard"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Solana-based NFT marketplace",
+    "domain": "NFT, Marketplace, Solana",
+    "responsibilities": [
+      "TechLead",
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 16",
+      "Spring",
+      "AWT",
+      "TypeScript",
+      "React",
+      "REST API",
+      "Web3J",
+      "Swagger",
+      "Anchor",
+      "PostgreSQL",
+      "Metaplex"
+    ],
+    "status": "Functional MVP. Frozen",
+    "supported_chains": [
+      "Solana"
+    ],
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Created ML-enhanced universal algorithm to automate the production of high-quality, artifact-free NFT images"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Platform for esports tournaments and a marketplace",
+    "domain": "Esports, Marketplace, Gaming",
+    "responsibilities": [
+      "TechLead",
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Spring",
+      "TypeScript",
+      "React",
+      "REST API",
+      "Reactor",
+      "Web3J",
+      "Swagger",
+      "PostgreSQL"
+    ],
+    "status": "Functional v1",
+    "supported_chains": [
+      "Everscale"
+    ],
+    "supported_payment_gateway": [
+      "Broxus",
+      "Kuna"
+    ],
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Developed a telemetry reception mechanism for online tournaments",
+      "With up to 200ms latency, the application delivered real-time statistics for 50 simultaneous online tournaments."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Real-time cloud video analytics",
+    "domain": "Video Analytics, Cloud, Surveillance",
+    "responsibilities": [
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 17",
+      "Kotlin",
+      "Spring",
+      "REST API",
+      "ML metadata",
+      "Swagger",
+      "PostgreSQL"
+    ],
+    "status": "Functional V4",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Implemented an optimized encoding mechanism and compressing the video data stream"
+    ],
+    "microservices_count": 20
+  },
+  {
+    "id": 15,
+    "name": "Digital platform offering online appointments with government agencies",
+    "domain": "Government, Online Appointments",
+    "responsibilities": [
+      "Backend Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Spring",
+      "REST API",
+      "Swagger",
+      "PostgreSQL"
+    ],
+    "status": "Functional v3",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Improved test coverage up to 90% for service."
+    ],
+    "microservices_count": 7
+  },
+  {
+    "id": 16,
+    "name": "National-scale personal data management system",
+    "domain": "Government, Data Management, Personal Data",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 8",
+      "Spring",
+      "CQRS with Axon",
+      "TypeScript",
+      "Angular",
+      "REST API",
+      "Web3J",
+      "GraphQL client",
+      "Swagger",
+      "SonarLint",
+      "MongoDb",
+      "PostgreSQL",
+      "Jenkins"
+    ],
+    "status": "Functional V5",
+    "supported_chains": null,
+    "partnerships": [
+      "Government ministries"
+    ],
+    "key_contributions": [
+      "Achieved a 60% increase in data search speed"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Factoring platform for thousands of companies",
+    "domain": "Finance, Factoring",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Java 11",
+      "Spring",
+      "TypeScript",
+      "React",
+      "REST API",
+      "Swagger",
+      "SOAP",
+      "PostgreSQL"
+    ],
+    "status": "Functional v4",
+    "supported_chains": null,
+    "partnerships": [
+      "Eastern European financial institution"
+    ],
+    "key_contributions": [
+      "Addressed over 100 bugs and TODOs from previous releases.",
+      "Improved test coverage by 40%."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Interactive map showcasing mining companies",
+    "domain": "Mapping, Mining, Visualization",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Blender Modeling",
+      "TypeScript",
+      "React",
+      "ThreeJS",
+      "IndexedDB"
+    ],
+    "status": "Functional v1",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Self-developed",
+      "Refined the 3D country map model",
+      "The interactive stand at the 'Expo 2020' international conference recorded 50,000 user interactions."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dedicated online marketplace for hookah tobacco",
+    "domain": "E-commerce, Marketplace, Tobacco",
+    "responsibilities": [
+      "Full Stack Developer"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Spring",
+      "TypeScript",
+      "React Native",
+      "REST API",
+      "Swagger"
+    ],
+    "status": "Functional MVP. Frozen.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Successful Google Play verification has resulted in the application's listing in the marketplace."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Specialized portal for recruiting senior government officials",
+    "domain": "Government, Recruitment, HR",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "Laravell",
+      "TypeScript",
+      "REST API",
+      "SOAP"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Сompelling platform presentation to district leadership resulted in a $1.2 million contract for platform adaptation with a neighboring district."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "SaaS platform empowering car service franchisees",
+    "domain": "SaaS, Automotive, Franchise Management",
+    "responsibilities": [
+      "Technical manager",
+      "Architect"
+    ],
+    "technologies": [
+      "PHP",
+      "Bitrix",
+      "TypeScript",
+      "REST API",
+      "WebSocket",
+      "MySQL",
+      "Redis"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "My platform concept secured victory in the tender competition, resulting in a $2 million contract award."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Information management system for rare earth metal enterprises",
+    "domain": "Enterprise Systems, Resource Management, Metals",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "TypeScript",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Due to the project's successful delivery 25% ahead of the planned timeline, the client approved an expansion of the contractual scope, adding $200k in additional tasks."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Interactive digital reference for standardized tool classifier codes",
+    "domain": "Industrial, Classification, Reference",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "JavaScript",
+      "REST API",
+      "PHPDoc",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Load tests confirmed the application's capacity to handle 300% the load following our optimization of indexing and caching for popular queries."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Digital system for industrial enterprises to submit state support applications",
+    "domain": "Government, Industrial, Applications",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "TypeScript",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Workflow optimization for application submission and processing led to a 30% reduction in average application review time."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Analytical platform for gathering and assessing industrial capacity and production resource data",
+    "domain": "Analytics, Industrial, Data Aggregation",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "JavaScript",
+      "SOAP",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "By simplifying the report submission interface, we achieved a 45% decrease in the average time required for report submission."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Interactive national gallery of industrial products",
+    "domain": "Industrial, Gallery, Data Integration",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "JavaScript",
+      "SOAP",
+      "REST API",
+      "PHPDoc",
+      "Redis",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "By integrating caching mechanisms, we significantly accelerated the indexing of new product records, resulting in a 3x speed improvement.",
+      "Enhanced search flexibility and expanded filter options while simultaneously improving search speed by 40%."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Landing Page projects for commercial organizations",
+    "domain": "Web Development, Marketing, Landing Pages",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "JavaScript"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Depending on the project, new audience growth ranged from 40% to 80%, consistently driving up to 100k new daily users to the site."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Online video conferencing platform",
+    "domain": "Video Conferencing, Communication, Collaboration",
+    "responsibilities": [
+      "Technical Lead",
+      "Quality Assurance"
+    ],
+    "technologies": [
+      "Pexip",
+      "WebRTC",
+      "Corel Draw",
+      "REST API",
+      "PostgreSQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": [
+      "Leroy Merlin headquartered"
+    ],
+    "key_contributions": [
+      "Following the successful production release of the first version, a $1M contract was signed for the development of the second iteration."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "E-commerce platform for bakery supplies",
+    "domain": "E-commerce, Retail, Bakery",
+    "responsibilities": [
+      "Technical manager",
+      "Frontend Developer"
+    ],
+    "technologies": [
+      "PHP",
+      "Bitrix",
+      "JavaScript",
+      "1C",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "The client's expenses for personal server maintenance and full-time software support were reduced by 50%.",
+      "A two-year backlog of portal modernization requests were implemented within a three-month project timeline."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Web portal for a hotel chain",
+    "domain": "Hospitality, Web Development, Booking",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "JavaScript",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "A shift to a component-based development strategy allowed us to complete the portal project 20 days early and reduce the client's budget by 40%."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "E-commerce portal for a chain of building supply stores",
+    "domain": "E-commerce, Retail, Building Supplies",
+    "responsibilities": [
+      "Technical manager"
+    ],
+    "technologies": [
+      "PHP",
+      "Bitrix",
+      "Adobe Photoshop",
+      "JavaScript",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "A contract extension and a 30% increase in project scope were achieved following negotiations with the customer concerning the previous team's deadline delay."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "ML-powered real-time detection of defects and breaches in deep-sea oil infrastructure",
+    "domain": "ML, Oil & Gas, Infrastructure, Deep-Sea",
+    "responsibilities": [
+      "Technical manager",
+      "Technical writer",
+      "Researcher"
+    ],
+    "technologies": [
+      "Python",
+      "ML",
+      "СNN with 1000 filters and 10 layers",
+      "ARM CPU based sources",
+      "C++",
+      "REST API",
+      "MongoDB"
+    ],
+    "status": "Functional MVP.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Successful application was submitted to the multinational projects competition, resulting in a $2M contract for 2 years."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Modernization of hydraulic transformer operation and backup systems",
+    "domain": "Energy, Infrastructure, Power Systems",
+    "responsibilities": [
+      "Project manager",
+      "Technical writer"
+    ],
+    "technologies": [
+      "Matlab",
+      "DigSILENT PowerFactory"
+    ],
+    "status": "Functional MVP.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Developed a scientific justification for the proposed approach, leading to a $3M contract from the tender application."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "R&D for ARM-based hardware and software for autonomous underwater vehicles",
+    "domain": "R&D, Robotics, Underwater Vehicles, Distributed Computing",
+    "responsibilities": [
+      "Technical manager",
+      "Researcher"
+    ],
+    "technologies": [
+      "C#",
+      "REST API",
+      "MS SQL"
+    ],
+    "status": "Functional MVP.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Successful application was submitted to the national projects competition, resulting in a grant award of $1.5M for five years."
+    ],
+    "microservices_count": 20,
+    "team_composition": {
+      "researchers": 5,
+      "engineers": 4,
+      "developers": 6,
+      "QA": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "Online brand and marketing campaign for a nightclub",
+    "domain": "Marketing, Branding, Nightlife",
+    "responsibilities": [
+      "Marketing manager",
+      "Frontend Developer"
+    ],
+    "technologies": [
+      "JavaScript",
+      "Corel Draw",
+      "Adobe Photoshop",
+      "REST API",
+      "MS SQL"
+    ],
+    "status": "Functional v1.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "The nightclub's opening was accelerated by seven days, launching alongside a synchronized marketing blitz across radio, TV, internet, and word-of-mouth.",
+      "This strategic launch resulted in bookings filling a month in advance within the opening days."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Configuring and deploying servers for citizen application service platform (MFC)",
+    "domain": "DevOps, Government, Server Management",
+    "responsibilities": [
+      "Team Lead",
+      "DevOps"
+    ],
+    "technologies": [
+      "C++",
+      "REST API",
+      "MS SQL"
+    ],
+    "status": "Functional v3.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "By optimally distributing team responsibilities, we completed software deployment and server setup three days ahead of schedule."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Mobile application for government-sponsored taxi services",
+    "domain": "Mobile App, Government, Transportation",
+    "responsibilities": [
+      "Team Lead"
+    ],
+    "technologies": [
+      "Java",
+      "C#",
+      "UDP Commands",
+      "GPS / GLONASS location",
+      "MS SQL"
+    ],
+    "status": "Functional v3.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Taxi route planning and adjustment time was reduced by 80%, automating the process and releasing the fleet manager from this responsibility.",
+      "The intern team, guided by my management, achieved project success and secured positions on the main staff."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Configuring and deploying a library accounting platform",
+    "domain": "Library Management, Software Deployment, Accounting",
+    "responsibilities": [
+      "Product Manager",
+      "Technical Lead"
+    ],
+    "technologies": [
+      "PHP",
+      "REST API",
+      "MySQL"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Time to issue and return a book has been reduced by 60%",
+      "Time to find the necessary book on the shelf has been reduced by 50%"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Satellite-based forest fire monitoring and forecasting platform",
+    "domain": "Environmental, Monitoring, Satellite, Forecasting",
+    "responsibilities": [
+      "Backend Developer"
+    ],
+    "technologies": [
+      "C#",
+      "Math and Geo algorithms",
+      "REST API",
+      "MS SQL"
+    ],
+    "status": "Functional v6.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "The accuracy of fire radius estimation improved by 35%."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Real-time public transit information system",
+    "domain": "Transportation, Public Transit, Real-time Data",
+    "responsibilities": [
+      "Backend Developer",
+      "Researcher"
+    ],
+    "technologies": [
+      "C#",
+      "Math and Geo algorithms",
+      "REST API",
+      "MS SQL"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Developing algorithms to triangulate vehicle location and restore routes using satellite data and telemetry information. Accuracy improved up to 50%.",
+      "Adapting lidar-based location algorithm caching for optimized performance on ARM-powered mobile terminals."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Maintenance and performance optimization of turnstile-based access control systems",
+    "domain": "Access Control, Security, Optimization",
+    "responsibilities": [
+      "Backend Developer",
+      "Engineer"
+    ],
+    "technologies": [
+      "C++",
+      "UDP Commands",
+      "MS SQL"
+    ],
+    "status": "Functional v3.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "Stability of the turnstile system rose by 40%.",
+      "False/repeat ticket activations fell by 50%."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Video streaming and web storage platform offering movies and clips via subscription or on-demand access",
+    "domain": "Video Streaming, Web Storage, Entertainment",
+    "responsibilities": [
+      "Backend Developer",
+      "Content manager"
+    ],
+    "technologies": [
+      "C++",
+      "JavaScript",
+      "MS SQL"
+    ],
+    "status": "Functional v2.",
+    "supported_chains": null,
+    "partnerships": null,
+    "key_contributions": [
+      "On-demand access requests generated about 30% increase in monthly revenue."
+    ]
+  }
+]

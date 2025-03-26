@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+Sitemap: https://khsa.github.io/your-repo-name/sitemap.xml
+
+Disallow: /data/
