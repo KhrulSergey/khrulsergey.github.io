@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9dcce6c6.css",
-    "main.js": "./static/js/main.c1035031.js",
+    "main.js": "./static/js/main.7153b1d6.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
     "static/media/DAO-Analytics-1.png": "./static/media/DAO-Analytics-1.fd0ae6a8a0ee5459c3d3.png",
@@ -64,11 +64,11 @@
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
     "main.9dcce6c6.css.map": "./static/css/main.9dcce6c6.css.map",
-    "main.c1035031.js.map": "./static/js/main.c1035031.js.map",
+    "main.7153b1d6.js.map": "./static/js/main.7153b1d6.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dcce6c6.css",
-    "static/js/main.c1035031.js"
+    "static/js/main.7153b1d6.js"
   ]
 }
