@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.a7827c28.css",
-    "main.js": "./static/js/main.d52b4f24.js",
+    "main.css": "./static/css/main.a9188195.css",
+    "main.js": "./static/js/main.ff1f7ed5.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
     "static/media/DAO-Analytics-1.png": "./static/media/DAO-Analytics-1.fd0ae6a8a0ee5459c3d3.png",
     "static/media/Project-2.png": "./static/media/Project-2.92bf266b68a4d7f0b2c3.png",
     "static/media/Blockchain Billing -2.png": "./static/media/Blockchain Billing -2.f26f176f2bef85aefbed.png",
+    "static/media/ChainLink-BlockchainFundamental.jpg": "./static/media/ChainLink-BlockchainFundamental.758984a6b8555d4ed644.jpg",
     "static/media/1743272495246.jpg": "./static/media/1743272495246.27971a8142b7837e09bc.jpg",
+    "static/media/BitDegree-Learn Solidity with Space Doggo.jpg": "./static/media/BitDegree-Learn Solidity with Space Doggo.d9a984ee5e29a39da52f.jpg",
+    "static/media/BitDegree-The Complete Solidity Smart Contract.jpg": "./static/media/BitDegree-The Complete Solidity Smart Contract.b159a9181cd3de088da6.jpg",
     "static/media/z3v4q2z3v4q2z3v.JPG": "./static/media/z3v4q2z3v4q2z3v.5bbdf30e2437816664e7.JPG",
     "static/media/1743273769271.jpg": "./static/media/1743273769271.d35956a6af5f548fe90d.jpg",
     "static/media/rxdqd6rxdqd6rxd.jpeg": "./static/media/rxdqd6rxdqd6rxd.15be970f20f8434672be.jpeg",
     "static/media/22lce822lce822.jpeg": "./static/media/22lce822lce822.da41ab29ec048c7f76b5.jpeg",
     "static/media/q16q2qq16q2qq16q.jpg": "./static/media/q16q2qq16q2qq16q.ea3268527979fc4c058d.jpg",
+    "static/media/GDPR_Certificate.jpg": "./static/media/GDPR_Certificate.705945032cdaa8c97fbf.jpg",
     "static/media/1743234941842.jpg": "./static/media/1743234941842.dbbf52add83fbb6b1898.jpg",
     "static/media/avatar_sergey.png": "./static/media/avatar_sergey.007e7f871a1190faf9f7.png",
     "static/media/jhduu433.jpg": "./static/media/jhduu433.d4de48dd7b7cf0267adb.jpg",
@@ -63,12 +67,12 @@
     "static/media/Arch_Blockchain_Billing.jpeg": "./static/media/Arch_Blockchain_Billing.40e535b490a669de0980.jpeg",
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
-    "main.a7827c28.css.map": "./static/css/main.a7827c28.css.map",
-    "main.d52b4f24.js.map": "./static/js/main.d52b4f24.js.map",
+    "main.a9188195.css.map": "./static/css/main.a9188195.css.map",
+    "main.ff1f7ed5.js.map": "./static/js/main.ff1f7ed5.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7827c28.css",
-    "static/js/main.d52b4f24.js"
+    "static/css/main.a9188195.css",
+    "static/js/main.ff1f7ed5.js"
   ]
 }
