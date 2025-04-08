@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.a9188195.css",
-    "main.js": "./static/js/main.ff1f7ed5.js",
+    "main.css": "./static/css/main.cb9b632d.css",
+    "main.js": "./static/js/main.77e80e43.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
     "static/media/DAO-Analytics-1.png": "./static/media/DAO-Analytics-1.fd0ae6a8a0ee5459c3d3.png",
+    "static/media/bg-dark.png": "./static/media/bg-dark.280e4ec883d52649f875.png",
     "static/media/Project-2.png": "./static/media/Project-2.92bf266b68a4d7f0b2c3.png",
     "static/media/Blockchain Billing -2.png": "./static/media/Blockchain Billing -2.f26f176f2bef85aefbed.png",
     "static/media/ChainLink-BlockchainFundamental.jpg": "./static/media/ChainLink-BlockchainFundamental.758984a6b8555d4ed644.jpg",
@@ -23,6 +24,7 @@
     "static/media/1743272823682.jpg": "./static/media/1743272823682.62a6215a59770a916ba8.jpg",
     "static/media/1743234572442.jpg": "./static/media/1743234572442.026b413196d73e6b4213.jpg",
     "static/media/yzkga1yzkga1yzkg.JPG": "./static/media/yzkga1yzkga1yzkg.b40a3dd938bec2b1e7d9.JPG",
+    "static/media/CV_Khrul_Sergei_Classic.pdf": "./static/media/CV_Khrul_Sergei_Classic.97aa9b4551a6770e4029.pdf",
     "static/media/1743237014300.jpg": "./static/media/1743237014300.3d2594a4510e3dfc02c3.jpg",
     "static/media/1btuxgqbtuxgqbtux.JPG": "./static/media/1btuxgqbtuxgqbtux.6d3d7ad4207dc2181bb0.JPG",
     "static/media/1743236004804.jpg": "./static/media/1743236004804.b999a583abcfe44ac6bd.jpg",
@@ -31,7 +33,6 @@
     "static/media/1743236079080.jpg": "./static/media/1743236079080.dfe3d64cc9cdb98ffa20.jpg",
     "static/media/1743181402784.jpg": "./static/media/1743181402784.72ef704d0b1a92e445e0.jpg",
     "static/media/1743237686376.JPG": "./static/media/1743237686376.5f6f4f267a378883b580.JPG",
-    "static/media/bg-light.png": "./static/media/bg-light.bac0efb485244a522981.png",
     "static/media/1743183760324.JPG": "./static/media/1743183760324.b2cb433be2f548a06943.JPG",
     "static/media/1743275550350.jpg": "./static/media/1743275550350.af6051103bfed47bfe47.jpg",
     "static/media/1743184251447.jpg": "./static/media/1743184251447.61f0f2a99a3559e697b0.jpg",
@@ -50,7 +51,6 @@
     "static/media/1743187556415.jpg": "./static/media/1743187556415.b43880908c2998fb5387.jpg",
     "static/media/DEX-Analytics-1.png": "./static/media/DEX-Analytics-1.a68f260f6b8ef377d0fa.png",
     "static/media/1743204357942.jpg": "./static/media/1743204357942.def6d5b6aa30a8705291.jpg",
-    "static/media/bg-dark.png": "./static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/Blockchain Billing -1.png": "./static/media/Blockchain Billing -1.2a550f4a878b179908e3.png",
     "static/media/1743233778574.jpg": "./static/media/1743233778574.8fad2088e09bc73ecc8e.jpg",
     "static/media/1743183909192.JPG": "./static/media/1743183909192.2a5f736bea9813b6f85c.JPG",
@@ -63,16 +63,17 @@
     "static/media/WorkingProcess_AMM_with_Multichain_and_MultiDex.png": "./static/media/WorkingProcess_AMM_with_Multichain_and_MultiDex.fa971b4868306418d1c0.png",
     "static/media/1743236711920.jpg": "./static/media/1743236711920.6da6edaea0472f9beeed.jpg",
     "static/media/1743236598583.jpg": "./static/media/1743236598583.b858b3593e05e664ddc2.jpg",
+    "static/media/bg-light_2.jpg": "./static/media/bg-light_2.e2dd7d53ccfd7f176026.jpg",
     "static/media/1743187433463.jpg": "./static/media/1743187433463.7da0ec25869ec2fd755f.jpg",
     "static/media/Arch_Blockchain_Billing.jpeg": "./static/media/Arch_Blockchain_Billing.40e535b490a669de0980.jpeg",
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
-    "main.a9188195.css.map": "./static/css/main.a9188195.css.map",
-    "main.ff1f7ed5.js.map": "./static/js/main.ff1f7ed5.js.map",
+    "main.cb9b632d.css.map": "./static/css/main.cb9b632d.css.map",
+    "main.77e80e43.js.map": "./static/js/main.77e80e43.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9188195.css",
-    "static/js/main.ff1f7ed5.js"
+    "static/css/main.cb9b632d.css",
+    "static/js/main.77e80e43.js"
   ]
 }
