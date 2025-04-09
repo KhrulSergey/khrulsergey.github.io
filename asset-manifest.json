@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3182315a.css",
-    "main.js": "./static/js/main.1b7a3970.js",
+    "main.js": "./static/js/main.6fc2d506.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
     "static/media/DAO-Analytics-1.png": "./static/media/DAO-Analytics-1.fd0ae6a8a0ee5459c3d3.png",
@@ -22,9 +22,9 @@
     "static/media/avatar_sergey.png": "./static/media/avatar_sergey.007e7f871a1190faf9f7.png",
     "static/media/jhduu433.jpg": "./static/media/jhduu433.d4de48dd7b7cf0267adb.jpg",
     "static/media/1743272823682.jpg": "./static/media/1743272823682.62a6215a59770a916ba8.jpg",
+    "static/media/CV_Khrul_Sergei_Classic.pdf": "./static/media/CV_Khrul_Sergei_Classic.7f1c0f3d70bcf74443f7.pdf",
     "static/media/1743234572442.jpg": "./static/media/1743234572442.026b413196d73e6b4213.jpg",
     "static/media/yzkga1yzkga1yzkg.JPG": "./static/media/yzkga1yzkga1yzkg.b40a3dd938bec2b1e7d9.JPG",
-    "static/media/CV_Khrul_Sergei_Classic.pdf": "./static/media/CV_Khrul_Sergei_Classic.97aa9b4551a6770e4029.pdf",
     "static/media/1743237014300.jpg": "./static/media/1743237014300.3d2594a4510e3dfc02c3.jpg",
     "static/media/1btuxgqbtuxgqbtux.JPG": "./static/media/1btuxgqbtuxgqbtux.6d3d7ad4207dc2181bb0.JPG",
     "static/media/1743236004804.jpg": "./static/media/1743236004804.b999a583abcfe44ac6bd.jpg",
@@ -69,11 +69,11 @@
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
     "main.3182315a.css.map": "./static/css/main.3182315a.css.map",
-    "main.1b7a3970.js.map": "./static/js/main.1b7a3970.js.map",
+    "main.6fc2d506.js.map": "./static/js/main.6fc2d506.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3182315a.css",
-    "static/js/main.1b7a3970.js"
+    "static/js/main.6fc2d506.js"
   ]
 }
