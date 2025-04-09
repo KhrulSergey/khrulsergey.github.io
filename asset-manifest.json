@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.cb9b632d.css",
-    "main.js": "./static/js/main.77e80e43.js",
+    "main.css": "./static/css/main.3182315a.css",
+    "main.js": "./static/js/main.aa98afa1.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
     "static/media/DAO-Analytics-1.png": "./static/media/DAO-Analytics-1.fd0ae6a8a0ee5459c3d3.png",
-    "static/media/bg-dark.png": "./static/media/bg-dark.280e4ec883d52649f875.png",
+    "static/media/bg-dark.png": "./static/media/bg-dark.5c16f1050eab1822217f.png",
     "static/media/Project-2.png": "./static/media/Project-2.92bf266b68a4d7f0b2c3.png",
     "static/media/Blockchain Billing -2.png": "./static/media/Blockchain Billing -2.f26f176f2bef85aefbed.png",
     "static/media/ChainLink-BlockchainFundamental.jpg": "./static/media/ChainLink-BlockchainFundamental.758984a6b8555d4ed644.jpg",
@@ -68,12 +68,12 @@
     "static/media/Arch_Blockchain_Billing.jpeg": "./static/media/Arch_Blockchain_Billing.40e535b490a669de0980.jpeg",
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
-    "main.cb9b632d.css.map": "./static/css/main.cb9b632d.css.map",
-    "main.77e80e43.js.map": "./static/js/main.77e80e43.js.map",
+    "main.3182315a.css.map": "./static/css/main.3182315a.css.map",
+    "main.aa98afa1.js.map": "./static/js/main.aa98afa1.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb9b632d.css",
-    "static/js/main.77e80e43.js"
+    "static/css/main.3182315a.css",
+    "static/js/main.aa98afa1.js"
   ]
 }
