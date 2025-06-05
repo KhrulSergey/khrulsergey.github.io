@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.3182315a.css",
-    "main.js": "./static/js/main.c1a65ad2.js",
+    "main.css": "./static/css/main.2c17f623.css",
+    "main.js": "./static/js/main.6732a320.js",
     "static/js/453.9415623e.chunk.js": "./static/js/453.9415623e.chunk.js",
     "static/media/football_manager.gif": "./static/media/football_manager.e10183ec7f9f3d5e496c.gif",
     "static/media/DAO-Analytics-2.png": "./static/media/DAO-Analytics-2.ff406f1dbf8aa951a3eb.png",
@@ -69,12 +69,12 @@
     "static/media/Arch_Blockchain_Billing.jpeg": "./static/media/Arch_Blockchain_Billing.40e535b490a669de0980.jpeg",
     "static/media/1Z.jpg": "./static/media/1Z.1fe575af93ed7dd29f1c.jpg",
     "index.html": "./index.html",
-    "main.3182315a.css.map": "./static/css/main.3182315a.css.map",
-    "main.c1a65ad2.js.map": "./static/js/main.c1a65ad2.js.map",
+    "main.2c17f623.css.map": "./static/css/main.2c17f623.css.map",
+    "main.6732a320.js.map": "./static/js/main.6732a320.js.map",
     "453.9415623e.chunk.js.map": "./static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3182315a.css",
-    "static/js/main.c1a65ad2.js"
+    "static/css/main.2c17f623.css",
+    "static/js/main.6732a320.js"
   ]
 }
